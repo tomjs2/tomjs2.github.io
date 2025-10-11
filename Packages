@@ -15,6 +15,40 @@ Description: An faker hook tool
 Author: abc
 Name: faker
 
+Package: com.mdhx.faker.apple
+Version: 0.0.4-2+debug
+Architecture: iphoneos-arm64e
+Maintainer: abc
+Installed-Size: 2912
+Pre-Depends: dpkg
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.altlist, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Filename: ./debs/com.mdhx.faker.apple_0.0.4-2+debug_iphoneos-arm64e.deb
+Size: 537720
+MD5sum: 0e5b1b50907892a763306432ec0b8bad
+SHA1: 747bd06a42ffc48c3ee1d02422a43f66edb2d3ee
+SHA256: d32b1c0eeef33fb7fdd1dc9c7ca16adc4bf7d1b7f49ec870eb534b0275819a1a
+Section: System
+Description: An faker hook tool
+Author: abc
+Name: faker-apple
+
+Package: com.mdhx.faker.google
+Version: 0.0.4-2+debug
+Architecture: iphoneos-arm64e
+Maintainer: abc
+Installed-Size: 2912
+Pre-Depends: dpkg
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.altlist, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Filename: ./debs/com.mdhx.faker.google_0.0.4-2+debug_iphoneos-arm64e.deb
+Size: 538124
+MD5sum: 83ca853aeb3f176d80f08bdd0fc831a9
+SHA1: f968cca8ebbb440df29ea3c3826a36a7d2100d76
+SHA256: 156429d39e0030b6e36900477409e40fb2c208e8503461c9e786ac77ea1b3337
+Section: System
+Description: An faker hook tool
+Author: abc
+Name: faker-google
+
 Package: me.jjolano.fmwk.hookkit
 Version: 1.0.15
 Architecture: iphoneos-arm64e
