@@ -33,17 +33,17 @@ Author: abc
 Name: faker-apple
 
 Package: com.mdhx.faker.google
-Version: 0.0.5-4+debug
+Version: 0.0.5-7+debug
 Architecture: iphoneos-arm64e
 Maintainer: abc
 Installed-Size: 2928
 Pre-Depends: dpkg
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.altlist, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
-Filename: ./debs/com.mdhx.faker.google_0.0.5-4+debug_iphoneos-arm64e.deb
-Size: 542208
-MD5sum: 9e0e93d9bd9c7eb7423c7b540b67d942
-SHA1: 926630b197297db4c83513b126f0eebf0e5d4472
-SHA256: 1f44734b327c6074af6ba453de6a7d56dce9085a66fd4ab0173619070e89c93a
+Filename: ./debs/com.mdhx.faker.google_0.0.5-7+debug_iphoneos-arm64e.deb
+Size: 541976
+MD5sum: 013e39d12a1a4bfe74c7d37a385490b1
+SHA1: 1f452a48739a51e8b87e78a02ecca840f2e2ac8c
+SHA256: a19c73f01417a2f461314a95dc0fc7d887c691a85fb657a4f9ef0c9007cec5a7
 Section: System
 Description: An faker hook tool
 Author: abc
