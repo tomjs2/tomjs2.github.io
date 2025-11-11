@@ -66,6 +66,23 @@ Description: An faker hook tool
 Author: abc
 Name: faker-tg
 
+Package: com.mdhx.faker.waapple
+Version: 0.0.5-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: abc
+Installed-Size: 2852
+Pre-Depends: dpkg
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.altlist, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Filename: ./debs/com.mdhx.faker.waapple_0.0.5-1+debug_iphoneos-arm64e.deb
+Size: 530742
+MD5sum: 2fd19aff7f44f3198afacdc7ff31ff08
+SHA1: b9c1f2c2d62e3a190682c3c3e1f6edcd86b0669d
+SHA256: 4c4ac14003e60dbefb305ef3f23b123eed683689e88b54bcd6248d7790065f79
+Section: System
+Description: An faker hook tool
+Author: abc
+Name: faker-apple-wa
+
 Package: me.jjolano.fmwk.hookkit
 Version: 1.0.15
 Architecture: iphoneos-arm64e
