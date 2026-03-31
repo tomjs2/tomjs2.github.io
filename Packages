@@ -16,17 +16,17 @@ Author: abc
 Name: faker-google-wa-1
 
 Package: com.faker.wagoogle.b
-Version: 0.0.5-28+debug
+Version: 0.0.5-29+debug
 Architecture: iphoneos-arm64e
 Maintainer: abc
 Installed-Size: 2924
 Pre-Depends: dpkg
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.altlist, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
-Filename: ./debs/com.faker.wagoogle.b_0.0.5-28+debug_iphoneos-arm64e.deb
-Size: 545520
-MD5sum: bf3d34a1c6fc15bdc108a77ae10a553f
-SHA1: 0c58af03f4d799e844cf5a1aaf4a3101ecc4981a
-SHA256: bf4bf4b68a88b885b559938601ed0d7e72added2a0719c9a524a5b3b5dad993b
+Filename: ./debs/com.faker.wagoogle.b_0.0.5-29+debug_iphoneos-arm64e.deb
+Size: 545536
+MD5sum: 700700af696c5fa858644a2461b97a29
+SHA1: 726c09eb84801c07d3171ff60f84a835a31bc812
+SHA256: 886aa4e8e68d7e33100747ca9ee4d732eb998518ab9e76d8dde3536a66454834
 Section: System
 Description: An faker hook tool
 Author: abc
